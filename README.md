@@ -1,9 +1,9 @@
 # OMARISMA
-2. Descripción del proyecto (como si hablara el cliente)
+## 2. Descripción del proyecto (como si hablara el cliente)
 
 “El centro deportivo desea un sistema web que permita a los usuarios registrarse, iniciar sesión, consultar las instalaciones disponibles (pistas, salas, piscina…), ver horarios libres y realizar reservas. También queremos que los administradores puedan añadir instalaciones, gestionar horarios, cancelar reservas y ver estadísticas de uso. El sistema debe ser accesible desde cualquier dispositivo, ser seguro y fácil de usar.”
 
-3. Metodología seleccionada: Modelo en V
+## 3. Metodología seleccionada: Modelo en V
 
 He elegido el Modelo en V porque:
 
@@ -15,7 +15,7 @@ Es muy útil cuando el grupo es pequeño o incluso de una sola persona, ya que c
 
 Reduce riesgos al tener un proceso secuencial y bien documentado.
 
-4. Etapas del ciclo de vida con el Modelo en V
+## 4. Etapas del ciclo de vida con el Modelo en V
 
 El Modelo en V está dividido en dos grandes ramas:
 
@@ -51,19 +51,19 @@ Rol: Desarrollador / Arquitecto.
 Se detalla cómo se implementará cada componente.
 
 Fase ascendente (lado derecho de la V)
-5. Pruebas unitarias
+ 5. Pruebas unitarias
 
 Producto: Casos de prueba por componente.
 Rol: Desarrollador.
 Se prueba cada módulo aislado.
 
-6. Pruebas de integración
+ 6. Pruebas de integración
 
 Producto: Pruebas de interacción entre módulos.
 Rol: QA / Desarrollador.
 Se verifica que los componentes trabajen bien juntos.
 
-7. Pruebas del sistema
+ 7. Pruebas del sistema
 
 Producto: Pruebas globales del sistema completo.
 Rol: QA.
@@ -87,7 +87,7 @@ Reuniones de seguimiento: Avances del desarrollo.
 
 Revisión de pruebas: Validación final.
 
-5. Requisitos funcionales y no funcionales
+## 5. Requisitos funcionales y no funcionales
 Requisitos funcionales
 
 El sistema permitirá a los usuarios registrarse y autenticarse.
@@ -120,7 +120,7 @@ El tiempo de respuesta máximo debe ser 2 segundos en operaciones comunes.
 
 El sistema debe implementarse con código mantenible y documentado.
 
-6. Herramientas necesarias
+## 6. Herramientas necesarias
 IDE
 
 Visual Studio Code: Desarrollo del front-end y back-end.
@@ -167,7 +167,7 @@ Pruebas de integración → Postman, Jest
 
 Pruebas del sistema → Selenium
 
-7. Resumen de cómo se llevaría a cabo el proyecto
+## 7. Resumen de cómo se llevaría a cabo el proyecto
 
 Reunión inicial con el cliente y recopilación de requisitos.
 
